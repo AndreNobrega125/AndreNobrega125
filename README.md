@@ -69,15 +69,18 @@ Meus certificados e cursos estão no [LinkedIn](https://www.linkedin.com/in/andr
 
 ## 🚀 Projetos
 
-- **[VeroAI](https://github.com/AndreNobrega125/sprint3-hercules)** — app Android que
+- **[VeroAI](https://github.com/AndreNobrega125/veroai-app)** — app Android que
   digitaliza a vistoria e a roçada de vegetação em rodovias, com três perfis de
   usuário. Challenge CCR Motiva, em grupo. APK, vídeo e plano de negócio no repositório.
-- **[PoupAI](https://github.com/AndreNobrega125/CPs-456-Flutter-CPAD)** — app de
+- **[PoupAI](https://github.com/AndreNobrega125/poupai-app)** — app de
   finanças para universitários: controle de gastos, divisão de contas e metas.
   Flutter e Supabase.
-- **[Agentes de IA com ESP32](https://github.com/AndreNobrega125/Cp4-Edge-Computing)** —
+- **[Agentes de IA com ESP32](https://github.com/AndreNobrega125/esp32-ai-agents)** —
   um sensor publica via MQTT e um agente CrewAI escreve o relatório certo para cada
   público. Python.
+- **[Eco-Watcher](https://github.com/AndreNobrega125/Eco-Watcher)** — app web (PWA) de
+  monitoramento de consumo de energia da casa, com dispositivos por cômodo e modo
+  offline. React e TypeScript.
 - **[VeroAI Web](https://github.com/AndreNobrega125/Vero-AI-MVP-V1)** — protótipo web
   que estima a altura da vegetação a partir de vídeo. FastAPI e Next.js.
 
